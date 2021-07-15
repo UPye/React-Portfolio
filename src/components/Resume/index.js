@@ -17,6 +17,30 @@ function Resume() {
                 </a>
               </button>
             </div>
+            <div>
+              <h3> Front End Proficiencies </h3>
+                <ul>
+                  <li> HTML </li>
+                  <li> CSS </li>
+                  <li> React.js </li>
+                  <li> JQuery </li>
+                  <li> Bootstrap </li>
+                  <li> Responsive Design </li>
+                  <li> JavaScript </li>
+                  <li> JSON </li>
+                  <li>  AJAX</li>
+                </ul>
+              <h3> Back-End Proficiencies </h3>
+                <ul>               
+                  <li> Node.js </li>
+                  <li> Express.js </li>
+                  <li> MySQL </li>
+                  <li> Sequelize </li>
+                  <li> MongoDB </li>
+                  <li> Mongoose </li>
+                  <li> REST </li>
+                </ul>
+            </div>
           </div>
         </div>
       </section>
