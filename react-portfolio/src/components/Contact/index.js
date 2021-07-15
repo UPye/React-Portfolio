@@ -43,8 +43,8 @@ function Contact() {
         <p className="text-center w-responsive mx-auto mb-5">Still have questions? Please do not hesitate to contact me directly.</p>
 
 
-        <div className='row'>
-          <div className="col-md-6 mb-md-0 mb-5 p-4">
+        <div className='row align-items-center'>
+          <div className="col-md-6 mb-md-0 mb-5 p-4 center-block">
 
             <form id="contact-form" name='contact-form' onSubmit={handleSubmit}>
 
@@ -87,13 +87,13 @@ function Contact() {
                 </div>
               </div>
               {/* <button data-testid="button" type="submit">Submit</button> */}
+              <div className="text-center mt-2">
+                <button className="btn btn-primary">Send</button>
+              </div>
             </form>
-            <div className="text-center text-md-left mt-2">
-              <button className="btn btn-primary">Send</button>
-            </div>
             <div className="status"></div>
           </div>
-          <div className="col-md-3 text-center">
+          <div className="col-md-12 text-center my-info">
             <ul className="list-unstyled mb-0">
               <li><i className="fas fa-map-marker-alt fa-2x"></i>
                 <p>Jacksonville, Fl 32221, USA</p>

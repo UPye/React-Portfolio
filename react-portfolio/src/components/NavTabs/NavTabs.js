@@ -5,7 +5,7 @@ function NavTabs(props) {
   const tabs = ['About Me', 'Portfolio','Contact' ,'Resume' ];
   return (
    
-    <ul className="nav nav-pills sticky-top p-4">
+    <ul className="nav nav-pills nav-fill sticky-top p-4">
       {tabs.map(tab => (
         <li className="nav-item" key={tab}>
           <a
