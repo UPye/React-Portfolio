@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/UPye/React-Portfolio/static/css/main.5e77d5e8.chunk.css",
-    "main.js": "/UPye/React-Portfolio/static/js/main.09b6ee8a.chunk.js",
-    "main.js.map": "/UPye/React-Portfolio/static/js/main.09b6ee8a.chunk.js.map",
-    "runtime-main.js": "/UPye/React-Portfolio/static/js/runtime-main.79a2d31f.js",
-    "runtime-main.js.map": "/UPye/React-Portfolio/static/js/runtime-main.79a2d31f.js.map",
-    "static/js/2.cdd02889.chunk.js": "/UPye/React-Portfolio/static/js/2.cdd02889.chunk.js",
-    "static/js/2.cdd02889.chunk.js.map": "/UPye/React-Portfolio/static/js/2.cdd02889.chunk.js.map",
-    "static/js/3.4d54159c.chunk.js": "/UPye/React-Portfolio/static/js/3.4d54159c.chunk.js",
-    "static/js/3.4d54159c.chunk.js.map": "/UPye/React-Portfolio/static/js/3.4d54159c.chunk.js.map",
-    "index.html": "/UPye/React-Portfolio/index.html",
-    "static/css/main.5e77d5e8.chunk.css.map": "/UPye/React-Portfolio/static/css/main.5e77d5e8.chunk.css.map",
-    "static/js/2.cdd02889.chunk.js.LICENSE.txt": "/UPye/React-Portfolio/static/js/2.cdd02889.chunk.js.LICENSE.txt",
-    "static/media/Urika_Pye_Coding_Resume.e5a5ace5.pdf": "/UPye/React-Portfolio/static/media/Urika_Pye_Coding_Resume.e5a5ace5.pdf",
-    "static/media/App.css": "/UPye/React-Portfolio/static/media/calligraphy-word-portfolio.cc619831.jpg",
-    "static/media/head-shot.1d190609.jpg": "/UPye/React-Portfolio/static/media/head-shot.1d190609.jpg"
+    "main.css": "/github.io/React-Portfolio/static/css/main.76c52676.chunk.css",
+    "main.js": "/github.io/React-Portfolio/static/js/main.09b6ee8a.chunk.js",
+    "main.js.map": "/github.io/React-Portfolio/static/js/main.09b6ee8a.chunk.js.map",
+    "runtime-main.js": "/github.io/React-Portfolio/static/js/runtime-main.c9145821.js",
+    "runtime-main.js.map": "/github.io/React-Portfolio/static/js/runtime-main.c9145821.js.map",
+    "static/js/2.cdd02889.chunk.js": "/github.io/React-Portfolio/static/js/2.cdd02889.chunk.js",
+    "static/js/2.cdd02889.chunk.js.map": "/github.io/React-Portfolio/static/js/2.cdd02889.chunk.js.map",
+    "static/js/3.4d54159c.chunk.js": "/github.io/React-Portfolio/static/js/3.4d54159c.chunk.js",
+    "static/js/3.4d54159c.chunk.js.map": "/github.io/React-Portfolio/static/js/3.4d54159c.chunk.js.map",
+    "index.html": "/github.io/React-Portfolio/index.html",
+    "static/css/main.76c52676.chunk.css.map": "/github.io/React-Portfolio/static/css/main.76c52676.chunk.css.map",
+    "static/js/2.cdd02889.chunk.js.LICENSE.txt": "/github.io/React-Portfolio/static/js/2.cdd02889.chunk.js.LICENSE.txt",
+    "static/media/Urika_Pye_Coding_Resume.e5a5ace5.pdf": "/github.io/React-Portfolio/static/media/Urika_Pye_Coding_Resume.e5a5ace5.pdf",
+    "static/media/App.css": "/github.io/React-Portfolio/static/media/calligraphy-word-portfolio.cc619831.jpg",
+    "static/media/head-shot.1d190609.jpg": "/github.io/React-Portfolio/static/media/head-shot.1d190609.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.79a2d31f.js",
+    "static/js/runtime-main.c9145821.js",
     "static/js/2.cdd02889.chunk.js",
-    "static/css/main.5e77d5e8.chunk.css",
+    "static/css/main.76c52676.chunk.css",
     "static/js/main.09b6ee8a.chunk.js"
   ]
 }
