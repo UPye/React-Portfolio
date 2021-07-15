@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.fe8b41ee.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.841e9216.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.841e9216.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.8f902c00.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.1411799a.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.1411799a.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.6bfb7375.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.6bfb7375.js.map",
     "static/js/2.623f3b02.chunk.js": "/React-Portfolio/static/js/2.623f3b02.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.4d54159c.chunk.js": "/React-Portfolio/static/js/3.4d54159c.chunk.js",
     "static/js/3.4d54159c.chunk.js.map": "/React-Portfolio/static/js/3.4d54159c.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.fe8b41ee.chunk.css.map": "/React-Portfolio/static/css/main.fe8b41ee.chunk.css.map",
+    "static/css/main.8f902c00.chunk.css.map": "/React-Portfolio/static/css/main.8f902c00.chunk.css.map",
     "static/js/2.623f3b02.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.623f3b02.chunk.js.LICENSE.txt",
     "static/media/Urika_Pye_Coding_Resume.e5a5ace5.pdf": "/React-Portfolio/static/media/Urika_Pye_Coding_Resume.e5a5ace5.pdf",
     "static/media/App.css": "/React-Portfolio/static/media/calligraphy-word-portfolio.cc619831.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.6bfb7375.js",
     "static/js/2.623f3b02.chunk.js",
-    "static/css/main.fe8b41ee.chunk.css",
-    "static/js/main.841e9216.chunk.js"
+    "static/css/main.8f902c00.chunk.css",
+    "static/js/main.1411799a.chunk.js"
   ]
 }
