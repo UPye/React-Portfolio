@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Note Taker",
+        "image": "./assets/portfolioImages/NoteTaker.png",
+        "gitHub": "https://github.com/UPye/noteTaker",
+        "app": "https://notetaker44.herokuapp.com/notes"
+    
+      },
+      {
+        "id": 2,
+        "name": "Weather Dashboard",
+        "image": "./assets/portfolioImages/WeatherDashboard.png",
+        "gitHub": "https://github.com/UPye/WeatherDashboard",
+        "app": "https://upye.github.io/WeatherDashboard/"
+      },
+      {
+        "id": 3,
+        "name": "Budget Tracker",
+        "image": "./assets/portfolioImages/BudgetTracker.png",
+        "gitHub": "https://github.com/UPye/BudgetTracker",
+        "app": "https://pye-budgets.herokuapp.com/"
+      },
+      {
+        "id": 4,
+        "name": "ReadMe-Generator",
+        "image": "./assets/portfolioImages/ReadMe-Generator.png",
+        "gitHub": "https://www.github.com/UPye/README-Generator",
+        "app": "https://drive.google.com/file/d/1-bSIJIRSwiL0xY4vH-1mOXtvNTbGgKM1/view"
+      },
+      {
+        "id": 5,
+        "name": "Tech Blog",
+        "image": "./assets/portfolioImages/TechBlog.png",
+        "gitHub": "https://github.com/UPye/techBlog",
+        "app": "https://techblogup.herokuapp.com/"
+      },
+      {
+        "id": 6,
+        "name": "Team Profile Generator",
+        "image": "./assets/portfolioImages/Team-Generator.png",
+        "gitHub": "https://github.com/UPye/teamProfileGenerator",
+        "app": "https://drive.google.com/file/d/131fB2tBbjuImxfsSBLgydv3l0WAXL6rf/view"
+      },
+      {
+        "id": 7,
+        "name": "Sneaker Bay",
+        "image": "./assets/portfolioImages/SneakerBay.png",
+        "gitHub": "https://github.com/mrhumpherys/sneakerBay",
+        "app": "https://sneakerbay.herokuapp.com/"
+      },
+      {
+        "id": 8,
+        "name": "Work Day Scheduler",
+        "image": "./assets/portfolioImages/WorkDayScheduler.png",
+        "gitHub": "https://github.com/UPye/workDayScheduler",
+        "app": "https://upye.github.io/workDayScheduler/"
+      }
+    ]
