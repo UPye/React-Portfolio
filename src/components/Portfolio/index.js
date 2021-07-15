@@ -1,5 +1,5 @@
 import React from 'react';
-import { AiFillGithub, AiFillAppstore } from 'react-icons/ai';
+import { AiFillGithub, AiFillEye } from 'react-icons/ai';
 // Props are passed through our functional component.
 function Portfolio(props) {
   return (
@@ -10,7 +10,7 @@ function Portfolio(props) {
       <div className="card-body content">
         <h5 className="card-title">{props.name}</h5>
         <a href={props.gitHub} id='portfolio-btn' target="blank" className="btn"><AiFillGithub className='portfolio-icons' /></a>
-        <a href={props.app} id='portfolio-btn' target="blank" className="btn"><AiFillAppstore className='portfolio-icons' /></a>
+        <a href={props.app} id='portfolio-btn' target="blank" className="btn"><AiFillEye className='portfolio-icons' /></a>
       </div>
 
     </div>
