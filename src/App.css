@@ -1,3 +1,7 @@
+* {
+  font-family: 'Zen Loop', cursive;
+}
+
 /* Head shot image styling */
 .head-shot {
     width: 300px;

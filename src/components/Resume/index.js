@@ -17,7 +17,7 @@ function Resume() {
                 </a>
               </button>
             </div>
-            <div>
+            <div className="">
               <h3> Front End Proficiencies </h3>
                 <ul>
                   <li> HTML </li>
