@@ -29,12 +29,6 @@ h1.display-4, p.lead {
   max-width: 50vw;
 }
 
-@media only screen and (max-width: 992px) {
-  .jumbotron {
-      min-height: 18vh;
-  }
-}
-
 /* Nav Tabs styling */
 .nav {
   background-color: whitesmoke;
@@ -50,6 +44,14 @@ h3 {
   font-size: 40px;
 }
 h5 {
+  font-size: 40px;
+}
+
+section {
+  font-size: 40px;
+}
+
+div.container {
   font-size: 40px;
 }
 
@@ -173,4 +175,16 @@ ul.social-links {
 }
 #resume-button:hover {
   transform: scale(1.25);
+}
+
+
+/* Media Queries */
+
+@media only screen and (max-width: 992px) {
+  .jumbotron {
+      min-height: 18vh;
+  }
+  * {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
 }
