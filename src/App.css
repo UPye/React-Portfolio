@@ -41,6 +41,7 @@ h1.display-4, p.lead {
 /* Nav Tabs styling */
 .nav {
     background-color: whitesmoke;
+    font-size: large;
 }
 
 /* Wrapper Stylings */
