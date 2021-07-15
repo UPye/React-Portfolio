@@ -1,6 +1,4 @@
 import React from "react";
-// import "../../stylePortfolio.css";
-import "./style.css";
 
 
 function Wrapper(props) {
