@@ -1,3 +1,8 @@
+# Urika's React Portfolio
+Get to know me more by checking out my React portfolio. You can view previous projects, and gain more insight into who I am 
+as a person and an employee.
+[Click here to view my portfolio](https://upye.github.io/React-Portfolio)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
