@@ -8,7 +8,7 @@ const About = () => (
             <h3 className='pl-1 pt-2 pb-4'> Urika Pye </h3>
             <h1> All About Me </h1>
         </div>
-        <div>
+        <div className="body">
             <p>
                 My name is Urika Pye, and I am a jack of all trades, literally. I'm experienced in customer service,
                 hospitality, valet, casino and hotel, restaurant, fast-food, retail, and department stores. I've also 

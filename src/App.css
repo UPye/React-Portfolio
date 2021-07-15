@@ -39,7 +39,12 @@ h1.display-4, p.lead {
 .nav {
   background-color: whitesmoke;
   font-family: 'Zen Loop', cursive;
-  font-size: 94px;
+  font-size: 50px;
+}
+
+/* Body stylings for font adjustments */
+.body {
+  
 }
 
 /* Wrapper Stylings */
