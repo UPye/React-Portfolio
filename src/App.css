@@ -1,38 +1,152 @@
-.App {
-  text-align: center;
+/* Head shot image styling */
+.head-shot {
+    width: 300px;
+    height: 300px;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px 3px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Jumbotron styling */
+.center {
+    align-items: center;
+    padding-left: 50%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.jumbotron {
+    background-image: url('../src/components/Header/img/calligraphy-word-portfolio.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 40vh;
+    width: 100%;
+}
+.container {
+    margin-left: 0;
+}
+h1.display-4, p.lead {
+    color: rgb(46 226 43 / 58%);
+    max-height: 10vh;
+    max-width: 50vw;
+}
+
+@media only screen and (max-width: 992px) {
+    .jumbotron {
+        min-height: 18vh;
+    }
+}
+
+/* Nav Tabs styling */
+.nav {
+    background-color: whitesmoke;
+}
+
+/* Wrapper Stylings */
+
+.wrapper {
+    padding-top: 50px;
+    /* background: #ECEFF1; */
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
   }
+
+.About {
+    display: inline-block;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+/* Portfolio card stylings */
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.title {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
   }
-  to {
-    transform: rotate(360deg);
+  .card {
+    background: #fff;
+    border-radius: 2px;
+    height: 325px;
+    margin: 1rem;
+    position: relative;
+    width: 250px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   }
+  .card-body {
+    flex:none;
+  }
+  .card > .img-container {
+    height: 50%;
+    overflow: hidden;
+    text-align: center;
+    background: #6caddc;
+  }
+  .card > .img-container > img {
+    width: 100%;
+    height: 100%;
+  }
+  .card > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: grid;
+  }
+  #portfolio-btn {
+    display: flex;
+    justify-self: center;
+  }
+  #portfolio-btn :hover {
+    height: 30px;
+    width: 30px;
+    box-shadow: 0px 0px 15px 0px #0c0b0b;
+  }
+  .portfolio-icons {
+    height: 25px;
+    width: 25px;
+  }
+
+/*  */
+  
+/* Footer Styling */
+footer {
+    padding-top: 48px;
+    margin-bottom: 48px;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    }
+    
+.row {
+    justify-content: center;
+}
+    
+ul.social-links {
+    margin: 18px 0 30px 0;
+    font-size: 30px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0;
+}
+    
+.copyright {
+    font-size: 20px;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+/* Resume Styling */
+#resume-button {
+    border-radius: 10px;
+    border-width: 1px;
+    box-shadow: 0px 0px 20px 2px;
+    color: rgba(0, 13, 255, 0.217);
+    background-color: rgba(100, 92, 108, 0.387);
+    transition: transform 1s;
+}
+#resume-button:hover {
+   transform: scale(1.25);
 }
