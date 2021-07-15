@@ -55,5 +55,12 @@
         "image": "./assets/portfolioImages/WorkDayScheduler.png",
         "gitHub": "https://github.com/UPye/workDayScheduler",
         "app": "https://upye.github.io/workDayScheduler/"
+      },
+      {
+        "id": 9,
+        "name": "React Portfolio",
+        "image": "./assets/portfolioImages/React-Portfolio.png",
+        "gitHub": "https://github.com/UPye/React-Portfolio",
+        "app": "https://upye.github.io/React-Portfolio/"
       }
     ]
