@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.13712ff4.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.bc78e64e.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.bc78e64e.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.5d3f3f17.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.5d3f3f17.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.19dd4da4.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.19dd4da4.js.map",
     "static/js/2.623f3b02.chunk.js": "/React-Portfolio/static/js/2.623f3b02.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/React-Portfolio/index.html",
     "static/css/main.13712ff4.chunk.css.map": "/React-Portfolio/static/css/main.13712ff4.chunk.css.map",
     "static/js/2.623f3b02.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.623f3b02.chunk.js.LICENSE.txt",
-    "static/media/Urika_Pye_Coding_Resume.e5a5ace5.pdf": "/React-Portfolio/static/media/Urika_Pye_Coding_Resume.e5a5ace5.pdf",
+    "static/media/Urika_Pye_Coding_Resume.d3fcafd4.docx": "/React-Portfolio/static/media/Urika_Pye_Coding_Resume.d3fcafd4.docx",
     "static/media/App.css": "/React-Portfolio/static/media/calligraphy-word-portfolio.cc619831.jpg",
     "static/media/head-shot.1d190609.jpg": "/React-Portfolio/static/media/head-shot.1d190609.jpg"
   },
@@ -20,6 +20,6 @@
     "static/js/runtime-main.19dd4da4.js",
     "static/js/2.623f3b02.chunk.js",
     "static/css/main.13712ff4.chunk.css",
-    "static/js/main.bc78e64e.chunk.js"
+    "static/js/main.5d3f3f17.chunk.js"
   ]
 }
