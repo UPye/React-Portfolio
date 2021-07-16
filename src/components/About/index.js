@@ -52,7 +52,7 @@ const About = () => (
                 long-term disability, 401K matching (willing to negotiate up to limit), life insurance, and someone whom with I 
                 can still complete personal projects, without compromising the integrity of the company. Thank you for you time 
                 and your attention, feel free to poke around my portfolio website, so you can see more about how my work turns out. 
-                If you have any questions, visit my <link src=""> Contact Page </link> to get my contact info or send me an email. I also take on one-time 
+                If you have any questions, visit my <link src="https://UPye.github.io/React-Portfolio/Contact"> Contact Page </link> to get my contact info or send me an email. I also take on one-time 
                 projects. 
             </p>
         </div>
