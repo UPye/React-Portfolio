@@ -1,5 +1,5 @@
 import React from "react";
-import credentials from '../Resume/Urika_Pye_Coding_Resume.pdf';
+import credentials from '../Resume/Urika_Pye_Coding_Resume.docx';
 
 function Resume() {
   return (

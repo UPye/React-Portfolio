@@ -24,15 +24,15 @@ const About = () => (
                 I was on my way to becoming a full on hacker from there. That's when I met the lovely Javascript, and 
                 this language definitely challenged me. DOM manipulation alone challenged me because I felt everything I 
                 learned and did was in vain. That's when I realized, Javascript synthax doesn't like me. However, by the 
-                time I enrolled in UCF's coding bootcamp and was surrounded by a community of peers working towards the 
+                time I enrolled in UCF's coding bootcamp, I was surrounded by a community of peers working towards the 
                 same goal, and they all played a viable part in me realizing Javascript runs the world. It always has and 
-                it always will, so I may as well elarn it now. 
+                it always will, so I may as well learn it now. 
             </p>
             <p> 
                 Once we got to API calls, I began thinking, what did I get myself into. I usually pick up things super 
                 fast, but coding always had something else planned time-wise around the corner. While working 40+ hours 
                 a week and being promoted, I also juggled coding 30+ hours a week. Even though I was on the part-time 
-                schedule, it felt like I was doing full-time. Working to complete 2 build a week was the ban of my existence. 
+                schedule, it felt like I was doing full-time. Working to complete 2 builds a week was the bain of my existence. 
                 That is until everything started to make since. All the languages we were learning week in and week out 
                 all worked together like some sort of huge puzzle. All the synthax followed the same format, with different 
                 synthax, no matter the language. That's when I realized coding is EXACTLY like math, as far as the way you 
@@ -47,12 +47,13 @@ const About = () => (
                 I am a single woman without children, but I am the parent of a fur baby. I love trying new things, bowling, 
                 kayaking, and anything that can get my adrenaline going that isn't too dangerous. I would love to continue 
                 traveling and seeing the world, so I would love to work in a remote position. I also value paid time off, so 
-                after grueling projects, or just a long run of projects, I may take a breather, so I do not burn out. I also 
+                after grueling projects or just a long run of projects, I may take a breather and not burn out. I also 
                 want to make at least $72K starting out, and I would like access to health/vision/dental insurance, short-term/
                 long-term disability, 401K matching (willing to negotiate up to limit), life insurance, and someone whom with I 
                 can still complete personal projects, without compromising the integrity of the company. Thank you for you time 
                 and your attention, feel free to poke around my portfolio website, so you can see more about how my work turns out. 
-                If you have any questions, visit my Contact Page to get my contact info or send me an email.
+                If you have any questions, visit my <link src=""> Contact Page </link> to get my contact info or send me an email. I also take on one-time 
+                projects. 
             </p>
         </div>
     </div>
